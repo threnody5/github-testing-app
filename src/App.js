@@ -7,6 +7,7 @@ function App() {
     <div>
       <div>Testing Main Branch Protections</div>
       <div>Second Test</div>;
+      <div>Third test with lock branch option disabled</div>
     </div>
   );
 }
