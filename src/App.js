@@ -3,7 +3,12 @@
 import './App.css';
 
 function App() {
-  return <div>Testing Main Branch Protections</div>;
+  return (
+    <div>
+      <div>Testing Main Branch Protections</div>
+      <div>Second Test</div>;
+    </div>
+  );
 }
 
 export default App;
